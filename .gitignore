@@ -5,6 +5,7 @@ __pycache__/
 *.mp4
 *.mp3
 wikipedia/
+data/
 # csv files
 *.csv
 /*.csv
