@@ -10,9 +10,11 @@ wikipedia/
 # passwords
 pwd.txt
 selenium/
+pw.txt
 # C extensions
 *.so
-
+*.zip
+/*.zip
 # Distribution / packaging
 .Python
 build/
