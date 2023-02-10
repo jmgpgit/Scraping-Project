@@ -5,4 +5,4 @@
  
  https://www.youtube.com/watch?v=ABx4oqeYiIw
 
- yt-dlp.exe -o "C:\Users\jorge\Ironhack\Projects\Scraping-Project\data\videos\%(upload_date)s - %(title)s - (%(duration)ss) - %(uploader_id)s - [%(resolution)s] [%(id)s].%(ext)s" -x --audio-format "mp3" --write-sub --all-subs --convert-subs srt --add-metadata --write-description --write-thumbnail -i https://www.youtube.com/watch?v=dwDns8x3Jb4 --write-info-json --download-sections "*0:30-1:00" 
+ yt-dlp.exe -o "C:\Users\jorge\Ironhack\Projects\Scraping-Project\data\videos\%(title)s.%(ext)s" -x --audio-format "mp3" --write-sub --all-subs --convert-subs srt --add-metadata --write-description --write-thumbnail -i https://www.youtube.com/watch?v=dwDns8x3Jb4 --write-info-json --download-sections "*0:30-1:00" 
