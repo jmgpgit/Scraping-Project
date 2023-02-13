@@ -1,6 +1,6 @@
 # Top Artists, Top Songs, and Vocabulary
 
-![DDOS](src/state%20of%20affairs.png 'DDOS')
+![DDOSed](src/state%20of%20affairs.png 'AZLyrics')
 ## Introduction
 
 The aim of this project was to study the differences in songwriting in across genres and time. Towards that goal, we scraped Wikipedia.org for a list of the top 100 most successful bands, LastFM.com for a breakdown of their top 10 songs and Genius.com to search for their lyrics. We also included an alternative CSV dataset from Kaggle.com containing the lyrics of over 147,000 songs on AZLyrics.com.
